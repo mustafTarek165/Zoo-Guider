@@ -1,0 +1,168 @@
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.exe
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.deps.json
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.runtimeconfig.json
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.pdb
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.AssemblyReference.cache
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Form1.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.GenerateResource.cache
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.AssemblyInfoInputs.cache
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.AssemblyInfo.cs
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.CopyComplete
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\refint\Zoo App again.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.pdb
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.genruntimeconfig.cache
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\ref\Zoo App again.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\LiveCharts.WinForms.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.MainForm.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Properties.Resources.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Animals.AnimalClassifications.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Animals.AnimalPlaces.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Animals.Foods.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Cafes.Cafes.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Exports.Exports.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Imports.Imports.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Museums.Museums.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Sales.Sales.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Ticket_Reservations.Reservations_Guidelines.Guidelines.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Ticket_Reservations.ReservationsOrGuidelines.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Workers.Workers.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.AnimalsForm.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Users.NewUser.resources
+C:\Users\Mustafa Tarek\source\repos\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Ticket_Reservations.Reservations_Guidelines.Ticket_ReservationsForm.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.exe
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.deps.json
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.runtimeconfig.json
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Zoo App again.pdb
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\LiveCharts.WinForms.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.AssemblyReference.cache
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Form1.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.MainForm.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Properties.Resources.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Animals.AnimalClassifications.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Animals.AnimalPlaces.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.AnimalsForm.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Animals.Foods.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Cafes.Cafes.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Exports.Exports.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Imports.Imports.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Museums.Museums.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Sales.Sales.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Ticket_Reservations.Reservations_Guidelines.Guidelines.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Ticket_Reservations.Reservations_Guidelines.Ticket_ReservationsForm.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Ticket_Reservations.ReservationsOrGuidelines.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Users.NewUser.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo_App_again.Screens.Workers.Workers.resources
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.GenerateResource.cache
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.AssemblyInfoInputs.cache
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.AssemblyInfo.cs
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.csproj.CopyComplete
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\refint\Zoo App again.dll
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.pdb
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\Zoo App again.genruntimeconfig.cache
+C:\Users\Mustafa Tarek\Desktop\My projects\Zoo App again\Zoo App again\obj\Debug\net7.0-windows\ref\Zoo App again.dll

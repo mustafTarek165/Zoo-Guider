@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomDesign\ButtonEllipse.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Animals\AnimalClassifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Animals\AnimalPlaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Animals\AnimalsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Animals\Foods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Cafes\Cafes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Exports\Exports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Imports\Imports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Museums\Museums.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Sales\Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Ticket_Reservations\Reservations&amp;Guidelines\Guidelines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Ticket_Reservations\Reservations&amp;Guidelines\Ticket_ReservationsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Ticket_Reservations\ReservationsOrGuidelines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Users\NewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Workers\Workers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
